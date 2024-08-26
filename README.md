@@ -1,4 +1,7 @@
 # Inventory Management System
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![CLI](https://img.shields.io/badge/CLI-Command%20Line%20Interface-green.svg)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Lists%20%7C%20Sets%20%7C%20Tuples%20%7C%20Dictionaries-yellow.svg)
 
 This project is a simple command-line interface (CLI) for managing an inventory of items in a store. It allows users to add new items, update quantities, remove items, check stock, and list all items in the inventory. The project demonstrates the use of various Python data structures such as lists, sets, tuples, and dictionaries.
 
